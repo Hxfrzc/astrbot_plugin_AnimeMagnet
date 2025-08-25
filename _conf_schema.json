@@ -1,0 +1,9 @@
+{
+    "proxy":{
+        "description" : "代理地址",
+        "type": "string",
+        "hint": "输入代理地址,格式为:http://127.0.0.1:****",
+        "obvious_hint": true,
+        "default": ""
+    }
+}
