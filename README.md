@@ -15,7 +15,7 @@
 
 请在Astrbot的控制面板配置
 
-插件管理 -> astrbot_plugins_galinfo -> 操作 -> 插件配置
+插件管理 -> astrbot_plugins_AnimeMagnet -> 操作 -> 插件配置
 
 
 ## ⌨️使用方法
