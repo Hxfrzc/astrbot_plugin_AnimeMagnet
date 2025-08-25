@@ -1,4 +1,4 @@
-name: AnimeManget # 这是你的插件的唯一识别名。
+name: AnimeMagnet # 这是你的插件的唯一识别名。
 desc: 这是一个动漫磁链查询插件，可以获取动漫磁链 # 插件简短描述
 version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Hxfrzc # 作者
